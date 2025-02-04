@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student fascinated by the intersection of robotics, control theory, and programming. My work combines data-driven modeling, machine learning and estimation theory to identify/learn, estimate and control complex systems. I’m deeply curious about how machines work and how we can design smarter systems to solve real-world challenges. As I prepare for the next chapter, I’m eager to apply my technical expertise and creativity to projects that bridge theory and applications with hands-on innovation.
+I’m a Ph.D. student fascinated by the intersection of robotics, control theory, machine learning and programming. My work combines data-driven modeling, machine learning and estimation theory to identify/learn, estimate and control complex systems. I’m deeply curious about how machines work and how we can design smarter systems to solve real-world challenges. As I prepare for the next chapter, I’m eager to apply my technical expertise and creativity to projects that bridge theory and applications with hands-on innovation.
 
 
 Research Interests
 ===================
 I am interested in estimating dynamic systems and control using data-driven system identification and machine-learning methods. Some areas of interest that I have been working on or wish to explore include, but are not limited to:
+
+- **Scientific Machine Learning:**  
+  Developing hybrid modeling approaches that integrate data-driven methods with first-principles physics, using physics-informed machine learning for improved generalization and interpretability in complex systems.
 
 - **Estimation and control of partially observable dynamical systems:**  
   Learning dynamical systems with missing/partial or low-fidelity measurements or unknown parameters, data-driven modeling and control of complex physical systems, machine learning methods for estimating such dynamical systems and control, causal inference methods, and developing a unifying theory in this domain.
@@ -20,7 +23,7 @@ I am interested in estimating dynamic systems and control using data-driven syst
 - **Robotics and Control:**  
   Developing machine learning methods for robot autonomy, focusing on control in partially observable environments. Applying reinforcement learning and data-driven control strategies to enhance robot navigation and decision-making under uncertainty.
 
-- **Stochastic Modeling and Control:**
+- **Stochastic Modeling and Control:**  
   Developing methods for controlling systems with inherent randomness, using probabilistic techniques and stochastic optimization to handle uncertainty in dynamics and measurements.
 
 - **Off-Line vs. On-Line Computations:**  
@@ -34,4 +37,3 @@ I am interested in estimating dynamic systems and control using data-driven syst
 
 - **Cislunar Applications:**  
   Timeseries predictive modeling, augmented physics models for enhanced forecasting.
-
