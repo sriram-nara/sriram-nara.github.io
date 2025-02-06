@@ -23,7 +23,7 @@ I am interested in estimating dynamic systems and control using data-driven syst
 - **Robotics and Control:**  
   Developing machine learning methods for robot autonomy, focusing on control in partially observable environments. Applying reinforcement learning and data-driven control strategies to enhance robot navigation and decision-making under uncertainty.
 
-- **Stochastic Modeling and Control:**  
+- **Stochastic systems:**  
   Developing methods for controlling systems with inherent randomness, using probabilistic techniques and stochastic optimization to handle uncertainty in dynamics and measurements.
 
 - **Off-Line vs. On-Line Computations:**  
