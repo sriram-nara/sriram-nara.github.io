@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student fascinated by the intersection of robotics, control theory, machine learning and programming. My work combines data-driven modeling, machine learning and estimation theory to identify/learn, estimate and control complex systems. I’m deeply curious about how machines work and how we can design smarter systems to solve real-world challenges. As I prepare for the next chapter, I’m eager to apply my technical expertise and creativity to projects that bridge theory and applications with hands-on innovation.
+I’m fascinated by the intersection of robotics, control theory, machine learning and programming. My work combines data-driven modeling, machine learning and estimation theory to identify/learn, estimate and control complex systems. I’m deeply curious about how machines work and how we can design smarter systems to solve real-world challenges. As I prepare for the next chapter, I’m eager to apply my technical expertise and creativity to projects that bridge theory and applications with hands-on innovation.
 
 
 Research Interests
