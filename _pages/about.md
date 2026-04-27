@@ -7,18 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I’m fascinated by the intersection of robotics, control theory, machine learning and programming. My work combines data-driven modeling, machine learning and estimation theory to identify/learn, estimate and control complex systems. I’m deeply curious about how machines work and how we can design smarter systems to solve real-world challenges. As I prepare for the next chapter, I’m eager to apply my technical expertise and creativity to projects that bridge theory and applications with hands-on innovation.
-
+I am a Research Scientist at West Virginia University working on data assimilation and optimization methods for reduced-order space weather models. My research combines estimation theory, scientific machine learning, and data-driven modeling to improve the fidelity and computational efficiency of space weather forecasting systems.
 
 Research Interests
 ===================
-I am interested in estimating dynamic systems and control using data-driven system identification and machine-learning methods. Some areas of interest that I have been working on or wish to explore include, but are not limited to:
+I am interested in data-driven methods for dynamical systems, with a focus on estimation, optimization, and reduced-order modeling. My current and ongoing research areas include:
+
+- **Data Assimilation:**  
+  Developing variational and ensemble-based data assimilation techniques to incorporate observational data into space weather models, improving forecast accuracy under sparse and uncertain measurements.
+
+- **Reduced-Order Modeling:**  
+  Building computationally efficient surrogate models for high-dimensional space weather systems using projection-based and machine learning approaches, enabling real-time prediction and control.
 
 - **Scientific Machine Learning:**  
   Developing hybrid modeling approaches that integrate data-driven methods with first-principles physics, using physics-informed machine learning for improved generalization and interpretability in complex systems.
 
-- **Estimation and control of partially observable dynamical systems:**  
-  Learning dynamical systems with missing/partial or low-fidelity measurements or unknown parameters, data-driven modeling and control of complex physical systems, machine learning methods for estimating such dynamical systems and control, causal inference methods, and developing a unifying theory in this domain.
+- **Optimization Methods:**  
+  Applying gradient-based and stochastic optimization to parameter estimation, model calibration, and optimal control problems in space weather and related dynamical systems.
+
+- **Estimation of Partially Observable Dynamical Systems:**  
+  Learning and estimating dynamical systems with missing, partial, or low-fidelity measurements — including unknown-parameter systems — using data-driven and probabilistic methods.
+
+- **Space Domain Awareness:**  
+  Predictive modeling for space environment characterization, uncertainty propagation, and data fusion for comprehensive space situational awareness.
 
 - **Robotics and Control:**  
   Developing machine learning methods for robot autonomy, focusing on control in partially observable environments. Applying reinforcement learning and data-driven control strategies to enhance robot navigation and decision-making under uncertainty.
@@ -31,9 +42,6 @@ I am interested in estimating dynamic systems and control using data-driven syst
 
 - **Parametric vs. Non-Parametric Methods:**  
   Investigating trade-offs in control systems applications: Using parametric models for verification, fault diagnosis, and policy transfer between systems.
-
-- **Space Domain Awareness:**  
-  Predictive modeling for space debris tracking, anomaly detection in space systems, optimizing satellite operations with machine learning, data fusion for comprehensive space situational awareness, uncertainty propagation, tracking, and data correlation.
 
 - **Cislunar Applications:**  
   Timeseries predictive modeling, augmented physics models for enhanced forecasting.
